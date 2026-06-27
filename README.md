@@ -18,5 +18,7 @@ I design and build **AI-powered apps and automations** — connecting large lang
 
 **Featured projects**
 - 🎫 **[helpdesk-triage-bot](https://github.com/rperezga/helpdesk-triage-bot)** — AI app that classifies, prioritizes (P1–P4), routes, and drafts replies to support tickets using an LLM. Multi-provider, runs offline in mock mode.
+- 📚 **[it-knowledge-base-assistant](https://github.com/rperezga/it-knowledge-base-assistant)** — From-scratch RAG assistant that answers questions over IT docs with grounded, cited answers.
+- ⚙️ **[kryndel](https://github.com/rperezga/kryndel)** — Production TypeScript platform (monorepo + Next.js explorer) for smart-contract observability; deployed, CI, 44 tests. Built with AI-assisted development. · [Live demo](https://kryndel.vercel.app)
 
 📫 **[LinkedIn](https://www.linkedin.com/in/TU-USUARIO)** · [rperezga@gmail.com](mailto:rperezga@gmail.com)

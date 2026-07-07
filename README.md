@@ -1,22 +1,60 @@
-# Hi, I'm Roger Perez 👋
+# Roger Perez Garcia
 
-### AI Application Developer · LLM Apps (RAG, agents, automation) · Full-Stack TypeScript/Node/React + Python
+## IT professional (12+ yrs) -> Full-Stack Developer
 
-📍 Miami, FL — U.S. Citizen · Bilingual EN/ES · Open to remote, hybrid & on-site roles
+I'm an IT support professional in Miami moving into full-stack development through recent, hands-on projects. My background is a mix of real support work, systems troubleshooting, user-facing operations, and practical software builds with JavaScript, React, Node.js, TypeScript, APIs, databases, and AI-assisted workflows.
 
-I build AI applications that turn manual, document-heavy workflows into working tools — LLM apps, RAG assistants, and automations using **Anthropic Claude and OpenAI APIs**. Full-stack JavaScript/TypeScript developer backed by **12+ years in enterprise IT operations** (healthcare & ERP), so I learn business domains fast and ship tested, deployed software.
+I like building tools that solve boring but real problems: dashboards, internal workflows, triage helpers, API integrations, and small automation systems that make support and business teams faster.
 
-**What I work with**
+## Stack I work with
 
-`LLM Apps (Claude · OpenAI)` · `RAG` · `Prompt Engineering` · `Agentic Development (Claude Code)`
-`TypeScript` · `Node.js` · `React / Next.js` · `Python` · `MongoDB` · `SQL` · `Docker` · `CI/CD` · `n8n`
+- JavaScript, TypeScript, Node.js, Express
+- React, Next.js, HTML, CSS
+- MongoDB, SQLite, REST APIs, WebSockets
+- Building LLM/AI-powered apps: RAG, ticket triage, workflow automation (n8n)
+- Git, GitHub, Linux, troubleshooting, documentation
 
-**Certifications:** AI Specialist · CompTIA A+ · CompTIA Network+
+## Featured projects
 
-**Featured projects**
+### Kryndel
 
-- 🚀 **[kryndel](https://github.com/rperezga/kryndel)** — Production full-stack TypeScript/Node platform: ingests, decodes, traces, and alerts on smart-contract activity via a MongoDB pipeline. Docker, CI, 44 automated tests. **Live: [kryndel.vercel.app](https://kryndel.vercel.app)**
-- 🎫 **[helpdesk-triage-bot](https://github.com/rperezga/helpdesk-triage-bot)** — LLM app that classifies, prioritizes (P1–P4), routes, and drafts replies to IT tickets. Multi-provider (Claude/OpenAI) with offline fallback.
-- 📚 **[it-knowledge-base-assistant](https://github.com/rperezga/it-knowledge-base-assistant)** — RAG system built from scratch: chunking, retrieval, and grounded answers with source citations.
+Open-source observability and alerts for XRPL EVM smart contracts — full-stack TypeScript monorepo with a live product demo.
 
-📫 **[LinkedIn](https://www.linkedin.com/in/perezroger)** · **[Live demo](https://kryndel.vercel.app)** · rperezga@gmail.com
+- Next.js 15, React 19, TypeScript
+- MongoDB, Stripe, Resend, XRPL, viem
+- Live demo: https://kryndel.dev
+- Repo: https://github.com/rperezga/kryndel
+
+### XRP Analytics Dashboard
+
+A dashboard for tracking XRP market data, news, sentiment, and alerts in one place.
+
+- Node.js, Express, SQLite, vanilla JS
+- Auth, dashboard views, background refresh jobs, API integrations
+- Built with a minimal-dependency approach so it stays easy to run and inspect
+
+### helpdesk-triage-bot
+
+A support-focused automation project that classifies help desk requests and suggests next steps.
+
+- Python, LLM workflows, ticket triage logic
+- Built around the kind of IT support problems I have handled directly: unclear requests, noisy queues, and repeat troubleshooting patterns
+
+### it-knowledge-base-assistant
+
+A small assistant for searching and answering from IT knowledge base material.
+
+- Retrieval-style workflow for support documentation
+- Focused on faster answers for recurring IT issues without pretending the model knows things it has not been given
+
+## What I'm looking for
+
+Junior / entry-level full-stack, front-end React, JavaScript, Node.js, web developer, or software engineer roles. Remote US is ideal; Miami hybrid/on-site also works.
+
+I bring 12+ years of IT support experience and recent hands-on full-stack projects. I don't claim years of formal developer employment. What I do bring is the ability to debug carefully, work with users, document what changed, and keep shipping when something breaks.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/perezroger/
+- GitHub: https://github.com/rperezga
+- Portfolio: https://kryndel.dev

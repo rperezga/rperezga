@@ -1,10 +1,19 @@
-# Roger Perez Garcia
+# Hi, I'm Roger 👋
 
-## IT professional (12+ yrs) -> Full-Stack Developer
+Full-Stack Developer — TypeScript · React · Node · MongoDB/PostgreSQL.
+Everything below is live, self-hosted, and built end-to-end by me (code → tests → CI → deploy → DNS → backups).
 
-I'm an IT support professional in Miami moving into full-stack development through recent, hands-on projects. My background is a mix of real support work, systems troubleshooting, user-facing operations, and practical software builds with JavaScript, React, Node.js, TypeScript, APIs, databases, and AI-assisted workflows.
+| Project | What it is | Live | Code |
+|---|---|---|---|
+| ExpedAi | AI-native freight load board SaaS — real-time board, OSRM real driving miles, post→bid→award, analytics over 424K+ real loads, AI bid Copilot | [app.expedai.us](https://app.expedai.us) | private (demo on request) |
+| closing-room | Real-estate closing platform — PostgreSQL+Prisma, transactional deals, audited docs, escrow in cents, SQL dashboard | [closing.smectherapy.com](https://closing.smectherapy.com) | [repo](https://github.com/rperezga/closing-room) |
+| kryndel | Open-source (Apache-2.0) smart-contract observability for XRPL — decoded event alerts, SSRF-guarded webhooks, Stripe billing | [kryndel.vercel.app](https://kryndel.vercel.app) | [repo](https://github.com/rperezga/kryndel) |
+| careflow-lite | Care-operations dashboard (MERN+TS) — role-based, audited writes, WebSocket live board, tested backups | [careflow.smectherapy.com](https://careflow.smectherapy.com) | [repo](https://github.com/rperezga/careflow-lite) |
+| USCashout Markets | Multi-coin crypto analytics — 9 coins, XRPL burn watcher, portfolio with historical P&L, bilingual | [uscashout.com](https://uscashout.com) | [repo](https://github.com/rperezga/uscashout-markets) |
+| Hermes | Self-hosted AI ops agent running this whole fleet — runbooks with hard verification gates | — | private |
 
-I like building tools that solve boring but real problems: dashboards, internal workflows, triage helpers, API integrations, and small automation systems that make support and business teams faster.
+How I work: GitHub Flow (PRs into protected main), Conventional Commits, CI on every push,
+evidence-based ops — *demand the evidence of the effect, not the story of it.*
 
 ## Stack I work with
 
@@ -13,39 +22,6 @@ I like building tools that solve boring but real problems: dashboards, internal 
 - MongoDB, SQLite, REST APIs, WebSockets
 - Building LLM/AI-powered apps: RAG, ticket triage, workflow automation (n8n)
 - Git, GitHub, Linux, troubleshooting, documentation
-
-## Featured projects
-
-### Kryndel
-
-Open-source observability and alerts for XRPL EVM smart contracts — full-stack TypeScript monorepo with a live product demo.
-
-- Next.js 15, React 19, TypeScript
-- MongoDB, Stripe, Resend, XRPL, viem
-- Live demo: https://kryndel.dev
-- Repo: https://github.com/rperezga/kryndel
-
-### XRP Analytics Dashboard
-
-A dashboard for tracking XRP market data, news, sentiment, and alerts in one place.
-
-- Node.js, Express, SQLite, vanilla JS
-- Auth, dashboard views, background refresh jobs, API integrations
-- Built with a minimal-dependency approach so it stays easy to run and inspect
-
-### helpdesk-triage-bot
-
-A support-focused automation project that classifies help desk requests and suggests next steps.
-
-- Python, LLM workflows, ticket triage logic
-- Built around the kind of IT support problems I have handled directly: unclear requests, noisy queues, and repeat troubleshooting patterns
-
-### it-knowledge-base-assistant
-
-A small assistant for searching and answering from IT knowledge base material.
-
-- Retrieval-style workflow for support documentation
-- Focused on faster answers for recurring IT issues without pretending the model knows things it has not been given
 
 ## What I'm looking for
 
